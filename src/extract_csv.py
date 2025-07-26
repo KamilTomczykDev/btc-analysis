@@ -1,9 +1,8 @@
 import pandas as pd
 
 
-def load_historical_csv(path="data/raw/historical_btc_2018.csv"):
+def load_historical_df(path="data/raw/historical_btc_2018.csv"):
     df = pd.read_csv(path)
+    df.columns = df.columns.str.lower()
+    df["date"] = pd.to_datetime(df["date"])
     return df
-
-
-load_historical_csv()
