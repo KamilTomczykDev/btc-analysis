@@ -104,5 +104,5 @@ You can deploy the Streamlit app for free using:
 
 ## 🙋‍♂️ Author
 
-**Kamil [YourLastName]**  
+**Kamil Tomczyk**  
 Junior Data Engineer | Python & SQL enthusiast
