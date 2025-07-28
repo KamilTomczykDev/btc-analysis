@@ -81,7 +81,8 @@ Then open the dashboard in your browser (usually: http://localhost:8501)
 
 ## 📸 Screenshots
 
-_(Add screenshots of your dashboard here, e.g. table view, BTC chart, price changes)_
+<img src="img/dashboard_1.png"/>
+<img src="img/dashboard_2.png"/>
 
 ---
 
